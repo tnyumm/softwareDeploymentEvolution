@@ -1,0 +1,35 @@
+:root{
+  --bg:#f5f7fb; --card:#fff; --text:#1f2937; --muted:#6b7280;
+  --brand:#2563eb; --brand-hover:#1e40af; --ring:#93c5fd; --alert:#fee2e2;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial;
+  display:grid; place-items:center; gap:1rem;
+}
+.card{
+  width:min(92vw,480px); background:var(--card); padding:2rem 2rem 1.5rem;
+  border-radius:16px; box-shadow:0 12px 30px rgba(31,41,55,.12);
+}
+h1{margin:0 0 1rem 0; font-size:1.6rem}
+form{display:grid; gap:.9rem}
+label{font-size:.95rem; color:var(--muted)}
+input{
+  padding:.7rem .9rem; border:1px solid #e5e7eb; border-radius:10px; font-size:1rem;
+  background:#fff; outline:none;
+}
+input:focus{border-color:var(--brand); box-shadow:0 0 0 3px var(--ring)}
+button{
+  margin-top:.4rem; padding:.8rem 1rem; border:0; border-radius:10px;
+  background:var(--brand); color:#fff; font-weight:600; cursor:pointer;
+}
+button:hover{background:var(--brand-hover)}
+.result{
+  margin-top:1rem; padding:.9rem 1rem; border-radius:10px; min-height:2.5rem;
+  display:flex; align-items:center; justify-content:center; font-weight:600;
+  background:#f1f5ff;
+}
+.alert{background:var(--alert); padding:.8rem 1rem; border-radius:10px; margin:.5rem 0}
+footer{color:var(--muted); font-size:.85rem; margin-bottom:.5rem; text-align:center}

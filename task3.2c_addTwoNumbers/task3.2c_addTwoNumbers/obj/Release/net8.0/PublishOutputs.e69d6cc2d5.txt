@@ -1,0 +1,6 @@
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\Settings.job
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers.exe
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers.dll
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers.deps.json
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers.runtimeconfig.json
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\PubTmp\Out\app_data\Jobs\Triggered\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers.pdb

@@ -1,0 +1,15 @@
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\task3.2c_addTwoNumbers.exe
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\Settings.job
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\task3.2c_addTwoNumbers.deps.json
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\task3.2c_addTwoNumbers.runtimeconfig.json
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\task3.2c_addTwoNumbers.dll
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\bin\Release\net8.0\task3.2c_addTwoNumbers.pdb
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.AssemblyInfo.cs
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.dll
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\refint\task3.2c_addTwoNumbers.dll
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.pdb
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\task3.2c_addTwoNumbers.genruntimeconfig.cache
+C:\Users\Tony\source\repos\task3.2c_addTwoNumbers\task3.2c_addTwoNumbers\obj\Release\net8.0\ref\task3.2c_addTwoNumbers.dll
